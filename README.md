@@ -18,4 +18,4 @@ pip install MediaPipe ==0.8.5
 All datasets are from the  CASIA Gait Recognition Dataset
 
 ## Matters needing attention
-Due to the size of the file, the database used by the project is in "releases", please pay attention to the file reading path when using them
+Due to the size of the file, the datasets and the models of the project are in "releases", please pay attention to the file reading path when using them
